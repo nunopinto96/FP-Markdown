@@ -1,4 +1,4 @@
-* [Home](readme.md)
+* [Home](/)
 * [Sobre](sobre.md)
 
 
